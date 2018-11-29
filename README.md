@@ -1,2 +1,2 @@
-# Cell-coverage-analysis
+# cell-coverage-analysis
 Cell coverage analysis of E. coli brightfield images
